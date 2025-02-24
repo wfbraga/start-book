@@ -1,0 +1,107 @@
+# IDEA
+# - A idéia é que essa imagem sejá para a capa de um livro sobre startup que usam rub on rails.
+Me de uma lista tão longa quanto puder de statups que usam ou que em algum momento usaram ruby on rails
+
+...
+## respose
+
+Fico feliz que tenha gostado da imagem! Aqui está uma lista de empresas e startups conhecidas por utilizarem ou terem utilizado Ruby on Rails em algum momento:
+
+- **Airbnb**
+- **Shopify**
+- **GitHub**
+- **Hulu**
+- **Twitch**
+- **Instacart**
+- **Zendesk**
+- **Squarespace**
+- **SoundCloud**
+- **Basecamp**
+- **Crunchbase**
+- **Goodreads**
+- **Dribbble**
+- **Bleacher Report**
+- **Fiverr**
+- **Groupon**
+- **Kickstarter**
+- **Scribd**
+- **Urban Dictionary**
+- **Yelp**
+- **We Heart It**
+- **Couchsurfing**
+- **MyFitnessPal**
+- **Indiegogo**
+- **JustGiving**
+- **Product Hunt**
+- **AngelList**
+- **500px**
+- **Heroku**
+- **TaskRabbit**
+- **Clarity.fm**
+- **Change.org**
+- **Diaspora**
+- **GitLab**
+- **Mastodon**
+- **Spree Commerce**
+- **Discourse**
+- **Forem**
+- **Glitch**
+- **Hashnode**
+- **Dev.to**
+- **Pitch**
+- **Podia**
+- **Reverb**
+- **Teachable**
+- **Vercel**
+- **Coinbase**
+- **Square**
+- **Stripe**
+- **Bitbucket**
+- **DigitalOcean**
+- **Engine Yard**
+- **New Relic**
+- **PagerDuty**
+- **Travis CI**
+- **Codeship**
+- **CircleCI**
+- **Semaphore**
+- **Buildkite**
+- **CodeClimate**
+- **Coveralls**
+- **Honeybadger**
+- **Rollbar**
+- **Sentry**
+- **Airbrake**
+- **Bugsnag**
+- **Raygun**
+- **Scout APM**
+- **AppSignal**
+- **Skylight**
+- **Librato**
+- **Datadog**
+- **Prometheus**
+- **Grafana**
+- **InfluxDB**
+- **Papertrail**
+- **Loggly**
+- **Logentries**
+- **Sumo Logic**
+- **Splunk**
+- **Graylog**
+- **Kibana**
+- **ELK Stack**
+- **Fluentd**
+- **Logstash**
+- **Paperclip**
+- **CarrierWave**
+- **Dragonfly**
+- **Shrine**
+- **Refile**
+- **Active Storage**
+- **MiniMagick**
+- **ImageMagick**
+- **RMagick**
+- **Vips**
+- **ImageProcessing**
+- **FastImage**
+- **Dragonfly** 
